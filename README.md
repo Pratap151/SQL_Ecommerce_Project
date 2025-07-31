@@ -24,7 +24,8 @@ To extract business insights and patterns using SQL queries by answering a range
 
 - Writing optimized queries for large datasets  
 - Using aggregation, window functions, and date functions  
-- Performing customer segmentation and retention analysis  
+- Performing customer segmentation and retention analysis
+- Understanding real-world business metrics from raw transactional data 
  
 
 
